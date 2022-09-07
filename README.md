@@ -11,6 +11,8 @@ cownomics.py (https://github.com/saa938/USACO-solutios/blob/main/cownomics.py): 
 
 moocrypt.py (https://github.com/saa938/USACO-solutios/blob/main/moocrypt.py): http://www.usaco.org/index.php?page=viewproblem2&cpid=545 
 
+paint.py (https://github.com/saa938/USACO-solutios/blob/main/paint.py): http://www.usaco.org/index.php?page=viewproblem2&cpid=567
+
 reduce.py (https://github.com/saa938/USACO-solutios/blob/main/reduce.py): http://www.usaco.org/index.php?page=viewproblem2&cpid=641 
 
 sleeping.py (https://github.com/saa938/USACO-solutios/blob/main/sleeping.py): http://www.usaco.org/index.php?page=viewproblem2&cpid=1203 
