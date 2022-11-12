@@ -1,5 +1,5 @@
 # USACO-solutios
-Some USACO solutions in mostly Python and some Java
+Some USACO solutions in mostly Python and some Java and C++
 
 **Python Bronze solutions:**
 
