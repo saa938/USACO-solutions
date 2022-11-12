@@ -1,4 +1,4 @@
-# USACO-solutios
+# USACO-solutions
 Some USACO solutions in mostly Python and some Java and C++
 
 **Python Bronze solutions:**
