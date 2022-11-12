@@ -1,12 +1,10 @@
 import sys
-sys.setrecursionlimit(1000000)
-
 sys.stdin = open("bcount.in","r")
 sys.stdout = open("bcount.out","w")
 
 n,q = map(int, input().split())
-
 s=[[0,0,0]]
+
 for i in range(n):
     x = int(input())
     if x == 1:
